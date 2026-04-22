@@ -33,5 +33,5 @@ A machine learning web application that predicts iris flower species based on se
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/iris-flower-predictor.git
-cd iris-flower-predictor
+git clone https://github.com/lolenseu/iris-app.git
+cd iris-app
